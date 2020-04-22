@@ -1,13 +1,4 @@
-// Serial Number : 22
-//
 // Author : Luke Olson
-// Due Date : 04/06/20
-// Programming Assignment Number 4
-//
-// Spring 2020 - CS 3358 - 252
-//
-// Instructor: Husain Gholoom.
-//
 // Takes in size of array and completes multiple recursive functions
 
 #include <iostream>
